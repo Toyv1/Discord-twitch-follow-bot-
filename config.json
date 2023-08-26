@@ -1,0 +1,36 @@
+
+{
+    "bot_config": {
+        "server_id": 1014435939344449606,
+        "prefix": "/",
+        "token": "",
+        "channel": 1096264046967275631,
+        "staff-channel": 1138974171997679626
+
+    },
+    "tfollow": {
+        "User": 50,
+        "Bronze": 75,
+        "Silver": 125,
+        "Gold": 250,
+        "Diamond": 700,
+        "Premium": 1000,
+        "3000+": 3000,
+        "Booster": 5000,
+        "Vip": 1500
+    },
+    "notfollow": {
+        "No Silver": 125,
+        "No Gold": 250,
+        "No Diamond": 700,
+        "No Premium": 1000,
+        "No 3000+": 3000
+    },
+    "stfollow": {
+        "Support": 250,
+        "Moderator": 500,
+        "Admin": 2000,
+        "Head Admin": 3500,
+        "Owner": 10000
+    }
+}
